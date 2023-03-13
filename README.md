@@ -1,6 +1,6 @@
 <!-- Logotipo -->
 <div align="center">
-  <img src="./src/assets/ignite.png">
+  <img src="./src/Assets/ignite-logo.svg">
 </div>
 
 <!-- Title -->
